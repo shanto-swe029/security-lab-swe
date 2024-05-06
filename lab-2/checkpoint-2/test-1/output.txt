@@ -1,30 +1,30 @@
 --------- cipher letter Frequency ----------
-a  7.64%
-b  0.00%
-c  8.13%
-d  8.87%
-e  5.42%
-f  7.39%
-g  4.68%
-h  1.48%
-i  11.33%
-j  0.25%
-k  4.68%
-l  0.74%
-m  1.72%
-n  3.94%
-o  2.71%
-p  7.88%
-q  3.69%
-r  5.67%
-s  0.25%
-t  2.71%
-u  3.20%
-v  3.20%
-w  1.97%
-x  2.46%
-y  0.00%
-z  0.00%
+a  3.04%
+b  0.26%
+c  6.59%
+d  1.87%
+e  4.59%
+f  0.00%
+g  1.81%
+h  7.30%
+i  0.00%
+j  4.78%
+k  8.53%
+l  6.27%
+m  6.14%
+n  2.39%
+o  8.47%
+p  1.42%
+q  2.71%
+r  0.45%
+s  2.46%
+t  2.20%
+u  12.80%
+v  5.49%
+w  2.46%
+x  0.00%
+y  1.81%
+z  6.14%
 --------- plain letter Frequency ----------
 a  8.05%
 b  1.67%
@@ -53,36 +53,53 @@ x  0.11%
 y  2.04%
 z  0.06%
 --------- frequency compare ----------
-i -> e
-d -> t
-c -> a
-p -> o
-a -> n
-f -> h
-r -> i
-e -> s
-g -> r
-k -> d
-n -> l
-q -> u
-v -> w
-u -> m
-t -> g
-o -> c
-x -> f
-w -> y
-m -> b
-h -> p
-l -> k
-s -> v
-j -> j
-z -> x
-y -> q
-b -> z
+u -> e
+k -> t
+o -> a
+h -> o
+c -> n
+l -> h
+z -> i
+m -> s
+v -> r
+j -> d
+e -> l
+a -> u
+q -> w
+w -> m
+s -> g
+n -> c
+t -> f
+d -> y
+g -> b
+y -> p
+p -> k
+r -> v
+b -> j
+i -> x
+f -> q
+x -> z
 --------- Decoding ----------
-nh o fodanuwlod ohr, nh eous uoie, rnmmedeha goy, aseie mtwd gede nhrnifehiople at snc-
--ywbt ocodyl, peuowie tm sni jwnuk whrediaohrnhb tm ase fdnhunflei tm fiyustsniatdy ohr
-tm sni ncobnhoanve fdtpnhbi nhat heg odeoi. na goi utcmtdanhb at khtg asoa nm ohyasnhb
-soffeher at ielrth sncielm pemtde ase coasecoanui tm ase mnelr utwlr pe utcfleaely gtdker twa-
--ohr stg iltgly na fdtueerer, ohr stg ctwhaonhtwi ase tpiaoulei--asede gtwlr oa leoia deconh the
-bttr cnhr asoa gtwlr uthanhwe ase deieodus
+unluo fai kerb rnyh asd kerb peywlnar, asd had uees the fosder og the ihnre gor
+injtb beari, eker insye hni remarvaule dniappearasye asd wsejpeyted retwrs. the
+rnyhei he had urowcht uayv grom hni trakeli had sof ueyome a loyal lecesd, asd nt fai
+popwlarlb uelneked, fhateker the old golv mncht iab, that the hnll at uac esd fai gwll og
+twsseli itwgged fnth treaiwre. asd ng that fai sot esowch gor game, there fai alio hni
+prolosced kncowr to markel at. tnme fore os, uwt nt ieemed to hake lnttle eggeyt os
+mr. uaccnsi. at snsetb he fai mwyh the iame ai at gngtb. at snsetb-snse theb uecas to
+yall hnm fell-preierked; uwt wsyhasced fowld hake uees searer the marv. there fere iome
+that ihoov thenr headi asd thowcht thni fai too mwyh og a cood thnsc; nt ieemed wsganr that
+asbose ihowld poiieii (apparestlb) perpetwal bowth ai fell ai (repwtedlb)
+nsejhawitnule fealth. nt fnll hake to ue pand gor, theb iand. nt nis't satwral, asd trowule
+fnll yome og nt! uwt io gar trowule had sot yome; asd ai mr. uaccnsi fai ceserowi fnth
+hni moseb, moit people fere fnllnsc to gorcnke hnm hni oddntnei asd hni cood gortwse. he
+remansed os knintnsc termi fnth hni relatnkei (ejyept, og yowrie, the iayvknlle-
+uaccnsiei), asd he had masb dekoted admnreri amosc the houunti og poor asd
+wsnmportast gamnlnei. uwt he had so yloie grnesdi, wstnl iome og hni bowscer yowinsi
+uecas to crof wp. the eldeit og theie, asd unluo'i gakowrnte, fai bowsc grodo uaccnsi.
+fhes unluo fai snsetb-snse he adopted grodo ai hni henr, asd urowcht hnm to lnke at uac
+esd; asd the hopei og the iayvknlle- uaccnsiei fere gnsallb daihed. unluo asd grodo
+happesed to hake the iame unrthdab, ieptemuer 22sd. bow had uetter yome asd lnke here,
+grodo mb lad, iand unluo ose dab; asd thes fe yas yeleurate owr unrthdab-partnei
+yomgortaulb tocether. at that tnme grodo fai itnll ns hni tfeesi, ai the houunti yalled the
+nrreiposinule tfestnei uetfees yhnldhood asd yomnsc og ace at thnrtb-three
